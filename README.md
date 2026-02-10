@@ -100,9 +100,9 @@ Screenshots of:
 
 are attached for reference.
 
-![Health API](screenshots/health.png)
-![BFHL API](screenshots/bfhl.png)
-![Render Deployment](screenshots/render.png)
+![Health API](health.png)
+![BFHL API](bfhl.png)
+![Render Deployment](render.png)
 
 ---
 
